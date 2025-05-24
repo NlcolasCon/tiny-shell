@@ -1,0 +1,10 @@
+# Compiled C programs
+*.o
+tsh
+
+# Editor folders
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
